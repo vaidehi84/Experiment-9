@@ -1,5 +1,7 @@
 🚀 Experiment 9 — Frontend Integration with RBAC
+👩‍💻 Vaidehi Sharma
 
+Course: FullStack Development 2026
 
 📌 Project Overview
 
